@@ -45,13 +45,13 @@ const navbar = () => {
           </Link>
           <Link
             className="mr-10 hover:text-gray-900 hover:cursor-pointer hover:underline trasition-colors duration-300 transform hover:scale-105"
-            href={"/blogcard"} target="_blank"
+            href={"/mega"} target="_blank"
           >
             Blog
           </Link>
           <Link
             className="mr-10 hover:text-gray-900  hover:cursor-pointer hover:underline trasition-colors duration-300 transform hover:scale-105"
-            href={"http://localhost:3000/contact"}
+            href={"/contact"} target="_blank"
           >
             Contact
           </Link>
